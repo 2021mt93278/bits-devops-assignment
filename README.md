@@ -1,8 +1,5 @@
 # bits-devops-assignment
 
-Collabrator2- Anand Mullapudi
-
-
-
-
-
+Manager        - Shiva Reddy
+Colloborator 1 - Ritvik Paramkusham
+Colloborator 2 - Anand Mullapudi
